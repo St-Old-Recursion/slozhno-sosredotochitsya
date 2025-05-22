@@ -4,7 +4,7 @@
 	--title-color: var(--color-pink-sixth, #ffc2e6);
 	--header-text-color: var(--color-grey, #353430);
 	--decorated-color: var(--color-grey, #353430);
-	--decorated-color-40: var(--color-grey-40, #35343040);
+	--decorated-color-40: var(--color-grey-40, #35343066);
 	--section-title-color: var(--color-grey, #353430);
 	--article-title-color: var(--color-grey, #353430);
 	--accent-color: var(--color-pink-fifth, #ff8dcb);
@@ -24,7 +24,7 @@
 		--title-color: var(--color-pink-sixth, #ffc2e6);
 		--header-text-color: var(--color-grey, #353430);
 		--decorated-color: var(--color-grey, #353430);
-		--decorated-color-40: var(--color-grey-40, #35343040);
+		--decorated-color-40: var(--color-grey-40, #35343066);
 		--section-title-color: var(--color-grey, #353430);
 		--article-title-color: var(--color-grey, #353430);
 		--accent-color: var(--color-pink-fifth, #ff8dcb);
